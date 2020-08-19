@@ -1,3 +1,7 @@
+# Note: I'm currently evaluating how to to get help on this Project without any issues in terms of campaign finance laws. I will update the repo and pull requests once I have a clear path.
+
+
+
 # Mail-In Ballot Dropoff Identifier
 Given the recent slow down in USPS services, voters the turn in their ballots within 3 weeks in the 2020 election risk having their votes not counted. Based on a Google search in the State of Pennsylvania, it took me 2-3 minutes to figure out where to physically turn in a ballot if I were a PA voter. I was also very specific in what I was looking for, something I cannot assume an average voter will be.
 
